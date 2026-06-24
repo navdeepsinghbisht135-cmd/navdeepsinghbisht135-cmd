@@ -1,16 +1,34 @@
-## Hi there 👋
+<p align="center">
+  <img src="banner.png" width="100%" />
+</p>
 
-<!--
-**navdeepsinghbisht135-cmd/navdeepsinghbisht135-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Navdeep Singh Bisht
 
-Here are some ideas to get you started:
+## Aspiring Product Manager | AI • SaaS • Marketplace
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👋 About Me
+Aspiring Product Manager focused on building real-world products and solving user problems through structured thinking, UX, and data-driven decisions.
+
+---
+
+### 🎯 Focus Areas
+- Product Strategy  
+- User Research  
+- PRD Writing  
+- GTM Strategy  
+- AI & SaaS Products  
+
+---
+
+### 🚀 Projects
+- ParkKumaon – Smart Parking Marketplace  
+- Local Assured Commerce – Hybrid Commerce Platform  
+- Jio OnePass – Loyalty Ecosystem Concept  
+
+---
+
+### 📬 Connect
+- LinkedIn: (your link here)  
+- GitHub: https://github.com/navdeepsinghbisht135-cmd  
