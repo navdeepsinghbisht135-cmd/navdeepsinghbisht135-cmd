@@ -30,5 +30,6 @@ Aspiring Product Manager focused on building real-world products and solving use
 ---
 
 ### 📬 Connect
-- LinkedIn: (your link here)  
-- GitHub: https://github.com/navdeepsinghbisht135-cmd  
+- LinkedIn: (www.linkedin.com/in/navdeep-singh-bisht-75908a228)  
+- GitHub: https://github.com/navdeepsinghbisht135-cmd
+- Phone No: 8273677376
