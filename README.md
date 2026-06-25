@@ -2,7 +2,7 @@
   <img src="banner.png.png" width="100%" />
 </p>
 
-# 👋 Hi, I'm Navdeep Singh Bisht
+# 👋 Hi, I'm Navdeep Singh Bist
 
 Aspiring Product Manager | AI Products | Marketplaces | GTM Strategy
 
