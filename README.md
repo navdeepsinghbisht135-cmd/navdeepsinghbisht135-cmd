@@ -9,8 +9,10 @@ Aspiring Product Manager | AI Products | Marketplaces | GTM Strategy
 📍 Haldwani, Uttarakhand, India
 
 🔗 Portfolio: [https://app.notion.com/p/Portfolio-09a01f8b3a4c41b9b810d132124255b6?source=copy_link]
+
 🔗 LinkedIn: [www.linkedin.com/in/navdeep-singh-bisht-75908a228]
-🔗 Resume: [Navdeep_Resume%20(1).pdf]
+
+🔗 Resume: []
 
 ---
 
