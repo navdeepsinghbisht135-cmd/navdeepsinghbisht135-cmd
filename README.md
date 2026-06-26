@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Banner.png.PNG" width="100%" />
+  <img src="Banner.png.png" width="100%" />
 </p>
 
 # 👋 Hi, I'm Navdeep Singh Bist
