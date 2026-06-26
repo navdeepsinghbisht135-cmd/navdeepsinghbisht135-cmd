@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="banner.png.png" width="100%" />
+  <img src="./github-banner.png" width="100%" alt="Navdeep Singh Bisht Banner">
 </p>
-
 # 👋 Hi, I'm Navdeep Singh Bist
 
 Aspiring Product Manager | AI Products | Marketplaces | GTM Strategy
