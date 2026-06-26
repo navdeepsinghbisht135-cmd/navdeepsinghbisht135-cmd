@@ -7,11 +7,11 @@ Aspiring Product Manager | AI Products | Marketplaces | GTM Strategy
 
 📍 Haldwani, Uttarakhand, India
 
-🔗 Portfolio: [https://app.notion.com/p/Portfolio-09a01f8b3a4c41b9b810d132124255b6?source=copy_link]
+🔗 [Portfolio](https://app.notion.com/p/Portfolio-09a01f8b3a4c41b9b810d132124255b6?source=copy_link) 
 
-🔗 LinkedIn: [www.linkedin.com/in/navdeep-singh-bisht-75908a228]
+🔗 [LinkedIn](www.linkedin.com/in/navdeep-singh-bisht-75908a228)
 
-🔗 Resume: []
+🔗 [Resume](https://drive.google.com/file/d/15WwPV9wQfUb4N9_SXN-JxPq6rxCuodkA/view?usp=drive_link)
 
 ---
 
@@ -77,8 +77,8 @@ Aspiring Product Manager | AI Products | Marketplaces | GTM Strategy
 
 ## 📬 Let's Connect
 
-LinkedIn:[www.linkedin.com/in/navdeep-singh-bisht-75908a228]
+[LinkedIn](www.linkedin.com/in/navdeep-singh-bisht-75908a228)
 
-Portfolio:[https://app.notion.com/p/Portfolio-09a01f8b3a4c41b9b810d132124255b6?source=copy_link]
+[Portfolio](https://app.notion.com/p/Portfolio-09a01f8b3a4c41b9b810d132124255b6?source=copy_link)
 
-GitHub:[https://github.com/navdeepsinghbisht135-cmd/Navdeep.git]
+[GitHub](https://github.com/navdeepsinghbisht135-cmd/Navdeep.git)
