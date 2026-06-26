@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Anything you think should be added, removed, or simplified..jpg" width="100%" alt="Banner">
+  <img src="banner.png.png" width="100%" />
 </p>
 # 👋 Hi, I'm Navdeep Singh Bist
 
