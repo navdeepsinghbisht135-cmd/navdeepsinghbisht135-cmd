@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./github-banner.png" width="100%" alt="Navdeep Singh Bisht Banner">
+  <img src="./Anything you think should be added, removed, or simplified..jpg" width="100%" alt="Banner">
 </p>
 # 👋 Hi, I'm Navdeep Singh Bist
 
